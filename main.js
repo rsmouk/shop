@@ -317,7 +317,7 @@
                 console.error(L.message)
             }
         }
-        console.log("Finished initializing " + B + " template."), k && va.removeClass(k, "no-js");
+        console.log("Finished initializing shop template."), k && va.removeClass(k, "no-js");
         var D = function () {
             if (! function () {
                     return "undefined" != typeof Storage
