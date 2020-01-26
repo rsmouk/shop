@@ -303,7 +303,7 @@
     "use strict";
     var z, A, B, C, k = j.documentElement
         , w = j.body;
-    if (B = "era-material", C = "1.1", va.findAttr("data-templateName", B) && va.findAttr("data-templateVersion", C)) {
+    if (B = "asfar-material", C = "1.1", va.findAttr("data-templateName", B) && va.findAttr("data-templateVersion", C)) {
         function G(H, I) {
             try {
                 if (va.isString(H)) {
