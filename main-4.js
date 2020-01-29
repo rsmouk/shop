@@ -248,7 +248,7 @@
         var R = P.length;
         for (B = 0; B < R; B++) Q(P[B], B)
     };
-    /*
+    
     "classList" in z ? (J = function (P, Q) {
         return P.classList.contains(Q)
     }, K = function (P, Q) {
@@ -284,7 +284,7 @@
             M(P, R)
         })
     };
-    */
+    
     var O = function (Q) {
         return Q.getAttribute("class")
     };
